@@ -12,7 +12,7 @@ const introdata = {
         third: "I am annoying. . .",
     },
     description: "Aap yaha aye kislye?\n Let's sneak into my memories quickly. . .",
-    your_img_url: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234425/photo_2023-05-05_00-28-05_zh8vaz.jpg",
+    your_img_url: "https://res.cloudinary.com/dsy8swctr/image/upload/v1686060429/photo_2023-06-04_00-34-39_zv5w4c.jpg",
 };
 
 const dataabout = {
@@ -74,23 +74,23 @@ const services = [{
 
 
 const dataportfolio = [{
-    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683233915/photo_2023-05-05_00-28-00_qc7gky.jpg",
-    description: "Freshly rusted flowers",
+    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1686059981/photo_1_2023-06-04_00-24-11_dgvupn.jpg",
+    description: "Tuck it",
     link: "#",
 },
 {
-    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234298/photo_2023-05-05_00-28-02_ku9mc8.jpg",
-    description: "Good/bad hair",
+    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1686060094/photo_2_2023-06-04_00-24-11_ayiaox.jpg",
+    description: "Main Character",
     link: "#",
 },
 {
-    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234334/photo_2023-05-05_00-28-03_e6gixy.jpg",
-    description: "Adrak <3",
+    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1686060192/photo_5_2023-06-04_00-24-11_waqu7b.jpg",
+    description: "<3",
     link: "#",
 },
 {
-    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234425/photo_2023-05-05_00-28-05_zh8vaz.jpg",
-    description: "After Hours",
+    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1686060287/photo_7_2023-06-04_00-24-11_yigpad.jpg",
+    description: "Ate It",
     link: "#",
 },
 {
@@ -99,14 +99,14 @@ const dataportfolio = [{
     link: "#",
 },
 {
-    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234552/photo_2023-05-05_00-28-06_uqjpr8.jpg",
-    description: "Paneer!",
+    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1686060354/photo_9_2023-06-04_00-24-11_nh66ml.jpg",
+    description: "Kaala Teeka",
     link: "#",
 },
 
 {
-    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234610/photo_2023-05-05_00-28-07_oqorzs.jpg",
-    description: "Them",
+    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1686060664/photo_4_2023-06-04_00-24-11_gljocl.jpg",
+    description: "Trying to make him cute <3",
     link: "#",
 },
 {
@@ -115,23 +115,23 @@ const dataportfolio = [{
     link: "#",
 },
 {
+    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1686060724/photo_8_2023-06-04_00-24-11_uosyo9.jpg",
+    description: "Best",
+    link: "#",
+},
+{
+    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1686060813/photo_6_2023-06-04_00-24-11_hfwjd3.jpg",
+    description: "Didn't Crop For the Aesthetics",
+    link: "#",
+},
+{
+    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234334/photo_2023-05-05_00-28-03_e6gixy.jpg",
+    description: "Adrak <3",
+    link: "#",
+},
+{
     img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234711/photo_2023-05-05_00-28-09_u4y7te.jpg",
     description: "White Hearts",
-    link: "#",
-},
-{
-    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234755/photo_2023-05-05_00-28-11_vn8kvx.jpg",
-    description: "I Love 'em",
-    link: "#",
-},
-{
-    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234814/photo_2023-05-05_00-44-31_csyasz.jpg",
-    description: "had to",
-    link: "#",
-},
-{
-    img: "https://res.cloudinary.com/dsy8swctr/image/upload/v1683234884/photo_2023-05-05_00-44-34_gndwjw.jpg",
-    description: "Star",
     link: "#",
 },
 ];
